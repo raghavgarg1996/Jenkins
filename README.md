@@ -20,5 +20,6 @@ Implementing jenkins and all it's test in thisrepo
 <img width="1037" alt="Screenshot 2023-08-12 at 7 11 25 PM" src="https://github.com/raghavgarg1996/Jenkins/assets/117148030/c37a8bb4-d469-4f0a-9f98-bcb6f179e969">
 8. Once the installation is complete it asks for these details
 <img width="1106" alt="Screenshot 2023-08-12 at 7 15 08 PM" src="https://github.com/raghavgarg1996/Jenkins/assets/117148030/c27389ed-8a91-4807-a263-701c4076483f">
-
-
+9. Gave the username:**admin**, password:**admin**, Full name: **Jenkins Admin**, and hit save and contimue
+10. Then it will show Jenkins URL: http://192.168.1.1:8080/
+11. 
