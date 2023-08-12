@@ -18,4 +18,7 @@ Implementing jenkins and all it's test in thisrepo
 6. Now paste the hash which we get in step 4 into the "**Administrator Password**"
 7. Then jenkins ask for the required software to install, it will be similar like
 <img width="1037" alt="Screenshot 2023-08-12 at 7 11 25 PM" src="https://github.com/raghavgarg1996/Jenkins/assets/117148030/c37a8bb4-d469-4f0a-9f98-bcb6f179e969">
+8. Once the installation is complete it asks for these details
+<img width="1106" alt="Screenshot 2023-08-12 at 7 15 08 PM" src="https://github.com/raghavgarg1996/Jenkins/assets/117148030/c27389ed-8a91-4807-a263-701c4076483f">
+
 
