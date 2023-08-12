@@ -21,5 +21,11 @@ Implementing jenkins and all it's test in thisrepo
 8. Once the installation is complete it asks for these details
 <img width="1106" alt="Screenshot 2023-08-12 at 7 15 08 PM" src="https://github.com/raghavgarg1996/Jenkins/assets/117148030/c27389ed-8a91-4807-a263-701c4076483f">
 9. Gave the username:**admin**, password:**admin**, Full name: **Jenkins Admin**, and hit save and contimue
-10. Then it will show Jenkins URL: http://192.168.1.1:8080/
-11. 
+10. Then it will show Jenkins URL: http://192.168.1.1:8080/ .
+11. In order to stop the container use command **docker-compose down**, and it will delete all the data
+
+
+**Creating First Jenkins Job**
+1. Select the Project Type - Free Style
+2. Add Build Steps - Execute shell
+3. In shell container write code "echo HELLO_WORLD"
