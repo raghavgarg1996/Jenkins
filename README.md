@@ -16,4 +16,6 @@ Implementing jenkins and all it's test in thisrepo
 5. Now get your system ip and implement 8080 in it i.e
     192.168.1.1:8080 and hit the url.
 6. Now paste the hash which we get in step 4 into the "**Administrator Password**"
-7. Then jenkins ask for the required software to install
+7. Then jenkins ask for the required software to install, it will be similar like
+<img width="1037" alt="Screenshot 2023-08-12 at 7 11 25 PM" src="https://github.com/raghavgarg1996/Jenkins/assets/117148030/c37a8bb4-d469-4f0a-9f98-bcb6f179e969">
+
