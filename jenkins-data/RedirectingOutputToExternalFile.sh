@@ -17,5 +17,5 @@ echo Create tmp dir
 mkdir -p tmp
 echo "==============================================================="
 
-echo "HELLO Current date and time is $(date)" > "$(pwd)/tmp/info"
+echo "HELLO, $NAME. Current date and time is $(date)" > "$(pwd)/tmp/info"
 echo "==============================================================="
