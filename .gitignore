@@ -1,2 +1,4 @@
 .idea/
 jenkins-data/jenkins_home/
+remote-key
+remote-key.pub
