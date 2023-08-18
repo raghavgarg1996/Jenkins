@@ -27,6 +27,13 @@ Implementing jenkins and all it's test in thisrepo
 
 
 **Creating First Jenkins Job**
+
 1. Select the Project Type - Free Style
 2. Add Build Steps - Execute shell
 3. In shell container write code "echo HELLO_WORLD"
+
+**Docker images**
+
+1. Get the remote-host docker images from
+   https://hub.docker.com/r/raghavgarg291900/remote-host
+2. 
